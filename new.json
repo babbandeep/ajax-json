@@ -1,0 +1,31 @@
+{
+	"dws": {
+		"developer" : [
+			{"name": "babban", "exp": 1.6 },
+			{"name": "gaurav", "exp": 1.6 },
+			{"name": "ajay", "exp": 1.6 }
+	],
+
+	"webdeveloper" : [
+			{"name": "mohit", "exp": 2.6 },
+			{"name": "amresh", "exp": 2.6 },
+			{"name": "naveen", "exp": 2.6 }
+	],
+
+	"seniordeveloper" : [
+			{"name": "narpat", "exp": 7 },
+			{"name": "pandey", "exp": 5 },
+			{"name": "suhdeer", "exp": 4 },
+			{"name": "priranjan", "exp": 4 }
+			
+	],
+
+		"trainee" : [
+			{"name": "sidharth", "exp": 1 },
+			{"name": "renu", "exp": 1 },
+			{"name": "vikash", "exp": 1 }
+
+			
+	]
+}
+}
